@@ -1,8 +1,7 @@
 This is the source code of the game that I have been developing during 1 month for js13kgames.com 2021 competition.
 Thanks for playing.
 
-
-Year 13 after climate change, the Earth is uninhabitable.
+"Year 13 after climate change, the Earth is uninhabitable.
 
 The last space freighter, with 13 million fertilized and cryogenized human ovules, leaves the earth, with 500 tons of Scriptium (Scm), 
 towards robotic bases built over decades, in anticipation of the climatic catastrophe, on inhabitable planets in the star system SAO215398 
@@ -17,8 +16,7 @@ Your mission, as the commander of the last starfleet, is to escort and defend th
 
 It will not be an easy task since other civilizations have conflicting interests.
 
-Place your starships strategically in order to defend the cargo starship, but keep in mind that you must save on resources.
-
+Place your starships strategically in order to defend the cargo starship, but keep in mind that you must save on resources."
 
 Controls:
 tap or click on the starships menu and tap/click on the screen to place them.
